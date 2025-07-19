@@ -9,4 +9,9 @@ namespace MergeRebaseSquashTest
             Console.WriteLine("Hi world");
         }
     }
+
+    public static class Math
+    {
+
+    }
 }
