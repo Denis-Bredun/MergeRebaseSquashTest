@@ -12,6 +12,6 @@ namespace MergeRebaseSquashTest
 
     public static class Math
     {
-
+        public static double Sum(double x1, double x2) => x1 + x2;
     }
 }
