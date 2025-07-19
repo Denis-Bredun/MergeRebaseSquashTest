@@ -6,7 +6,7 @@ namespace MergeRebaseSquashTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hi world");
+
         }
     }
 }
