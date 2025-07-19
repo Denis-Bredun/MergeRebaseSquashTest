@@ -9,4 +9,9 @@ namespace MergeRebaseSquashTest
             
         }
     }
+
+    public static class Math
+    {
+
+    }
 }
