@@ -10,8 +10,16 @@ namespace MergeRebaseSquashTest
         }
     }
 
-    class Person
+    public static class Math
     {
+        public static double Sum(double x1, double x2)
+        {
+            return x1 + x2;
+        }
 
+        public static double Substract(double x1, double x2)
+        {
+            return x1 - x2;
+        }
     }
 }
